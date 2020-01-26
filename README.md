@@ -1,10 +1,4 @@
 # Bash-Oneliner
-I am glad that you are here! I was working on bioinformatics a few years ago and was amazed by those single-word bash commands which are much faster than my dull scripts, time saved through learning command-line shortcuts and scripting. Recent years I am working on cloud computing and I keep recording those useful commands here. Not all of them is oneliner, but i put effort on making them brief and swift. I am mainly using Ubuntu, RedHat and Linux Mint, Mac and CentOS, sorry if the commands don't work on your system.
-
-This blog will focus on simple bash commands for parsing data and Linux system maintenance that i acquired from work and LPIC exam. I apologize that there are no detailed citation for all the commands, but they are probably from dear Google and Stackoverflow.
-
-English and bash are not my first language, please correct me anytime, thank you.
-If you know other cool commands, please teach me!
 
 Here's a more stylish version of [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/)~
 
